@@ -113,16 +113,6 @@ Adjust animation timelines directly inside component files for custom effects an
 ---
 
 
-## 📸 Screenshots
-
-Add your project screenshots here:
-
-```md
-![Home Page](./public/img/home-preview.png)
-```
-
----
-
 
 ## 🚀 Getting Started
 
